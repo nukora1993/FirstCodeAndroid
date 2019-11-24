@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--values 21表示只有android5.0的系统才会使用-->
+<resources>
+    <style name="FruitActivityTheme" parent="AppTheme">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
